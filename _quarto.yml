@@ -4,21 +4,19 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
+  title: "HongXin Yang"
   site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
-  repo-actions: [edit, issue]
+  
+  repo-url: https://github.com/1206708856joker-sys/Winter-Riesz.github.io
+  repo-actions: none #[edit, issue]
   
   page-footer:
-    left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
-      Made with [Quarto](https://quarto.org/)<br>
+      Made with [Winter-Riesz]
     
   navbar: 
     background: "#A9CCE3"
-    search: true
+    search: false
     right: 
       - text: "Home"
         href: index.qmd
@@ -28,12 +26,6 @@ website:
         href: books.qmd
       - text: "Blogs"
         href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
 
 format:
   html:
