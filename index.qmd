@@ -18,7 +18,7 @@ about:
 ---
 
 ::: {#hero-heading}
-
+## Introduction
 Student Yang's research interests lie in the field of elliptic equations, with a particular focus on the existence and uniqueness of solutions to nonlinear elliptic equations. He is also interested in the regularity of solutions to elliptic equations, as well as the applications of elliptic equations in various fields such as physics and engineering.
 
 
@@ -30,3 +30,10 @@ Student Yang's research interests lie in the field of elliptic equations, with a
 - Aug 2018 - Jan 2021: Senior-High School Student,  in YinZhou School.
 
 :::
+
+![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
+
+
+# Note
+
+- 观人于不得意时，于不得意而忽得意时，于得意而忽不得意时，经此三度，不失其常，庶可为士。
