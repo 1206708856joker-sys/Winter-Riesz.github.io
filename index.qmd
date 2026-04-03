@@ -1,5 +1,5 @@
 ---
-title: "HongXin Yang"
+title: "Winter`Fisher"
 image: images/Cat.jpg
 about:
   id: hero-heading
@@ -10,11 +10,11 @@ about:
     - icon: mailbox
       text: rieszyhx@mails.ccnu.edu.cn
       href: mailto:rieszyhx@mails.ccnu.edu.cn
-    - icon: book
-      text: 小红书
-      href: https://xhslink.com/m/Ck3hYcOO6m
     - icon: Bokk
       text: Wechat———Joker-Kelly
+    #- icon: book
+    #  text: 小红书
+    #  href: https://xhslink.com/m/Ck3hYcOO6m
 ---
 
 ::: {#hero-heading}
