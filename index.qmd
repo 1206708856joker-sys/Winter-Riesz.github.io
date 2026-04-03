@@ -1,11 +1,11 @@
 ---
 title: "HongXin Yang"
-image: images/YHX.jpg
+image: images/Cat.jpg
 about:
   id: hero-heading
   template: trestles
   image-width: 12em
-  image-shape: rounded
+  image-shape: round
   links:
     - icon: mailbox
       text: rieszyhx@mails.ccnu.edu.cn
