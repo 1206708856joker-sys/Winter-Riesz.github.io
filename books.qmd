@@ -38,6 +38,7 @@ format:
 - <a href="lecture/高等代数讲义.pdf" target="_blank" >高等代数讲义：PDF</a>
 - <a href="lecture/高等代数习题讲义.pdf" target="_blank" >高等代数习题讲义：PDF</a>
 - <a href="lecture/实分析习题讲义.pdf" target="_blank" >实分析习题讲义：PDF</a>
+- <a href="lecture/拓扑学笔记.pdf" target="_blank" >拓扑学讲义：PDF</a>
 
 ## Note
 
@@ -65,7 +66,7 @@ Following are the books and the exercise books.Classical style books I only reco
 
 ## Advanced Algebra
 
-In fact, this course is always be learned with the mathematical analysis meanwhile. I think as so far,there are no extroadinary books domestically. But only one book is worth recommending.The author is from FuDan University——Professor HongQi Xie ,ShengMu Yao!
+In fact, this course is always be learned with the mathematical analysis meanwhile. I think as so far,there are no extroadinary books domestically. But only one book is worth recommending.The author is from FuDan University——Professor QiHong Xie ,ShengMu Yao!
 
 ::: {style="text-align: center;"}
 ![](images/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E5%AD%A6.png){height="250px" style="margin: 0 10px;"} ![](images/%E7%99%BD%E7%9A%AE%E4%B9%A6.png){height="250px" style="margin: 0 10px;"} ![](images/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%E4%B9%A0%E9%A2%98%E9%9B%86.png){height="250px" style="margin: 0 10px;"}
@@ -76,6 +77,22 @@ You can find the video course in website:[QIHong Xie's Class Video](https://www.
 You can find the blog of the Profrssor Xie in website:[Blog of the Xie](https://www.cnblogs.com/torsor/p/16850640.html)
 
 ------------------------------------------------------------------------
+
+## Topology
+It is the basic course in analysis and gemetry, anyway, also be called "Point Topology".So it is proper to learn it when you finish your first year of your undergraduate study. Following are the books I recommend.
+
+::: {style="text-align: center;"}
+![](images/101%E6%8B%93%E6%89%91.png){height="250px" style="margin: 0 10px;"} ![](images/%E5%B0%A4%E6%89%BF%E4%B8%9A%E6%8B%93%E6%89%91.png){height="250px" style="margin: 0 10px;"}
+:::
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
 
 ## Real-Analysis
 
